@@ -1,0 +1,294 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "OOP01",
+      "request": "launch",
+      "mainClass": "ex05.OOP01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Meth03",
+      "request": "launch",
+      "mainClass": "ex05.Meth03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Var01",
+      "request": "launch",
+      "mainClass": "ex01.Var01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Var02",
+      "request": "launch",
+      "mainClass": "ex01.Var02",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Var03",
+      "request": "launch",
+      "mainClass": "ex01.Var03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Var04",
+      "request": "launch",
+      "mainClass": "ex01.Var04",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem01",
+      "request": "launch",
+      "mainClass": "ex02.Mem01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem01(1)",
+      "request": "launch",
+      "mainClass": "ex03.Mem01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem02",
+      "request": "launch",
+      "mainClass": "ex03.Mem02",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem03",
+      "request": "launch",
+      "mainClass": "ex03.Mem03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem04",
+      "request": "launch",
+      "mainClass": "ex03.Mem04",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem05",
+      "request": "launch",
+      "mainClass": "ex03.Mem05",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem06",
+      "request": "launch",
+      "mainClass": "ex03.Mem06",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Mem07",
+      "request": "launch",
+      "mainClass": "ex03.Mem07",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "MyStar01",
+      "request": "launch",
+      "mainClass": "ex03.MyStar01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "MyStar02",
+      "request": "launch",
+      "mainClass": "ex03.MyStar02",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "MyStar03",
+      "request": "launch",
+      "mainClass": "ex03.MyStar03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Rock",
+      "request": "launch",
+      "mainClass": "ex03.Rock",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "While01",
+      "request": "launch",
+      "mainClass": "ex03.While01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Gugudan",
+      "request": "launch",
+      "mainClass": "ex04.Gugudan",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Gugudan2",
+      "request": "launch",
+      "mainClass": "ex04.Gugudan2",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Study",
+      "request": "launch",
+      "mainClass": "ex04.Study",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "TheaterSeats",
+      "request": "launch",
+      "mainClass": "ex04.TheaterSeats",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "coin00",
+      "request": "launch",
+      "mainClass": "ex04.coin00",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "coin01",
+      "request": "launch",
+      "mainClass": "ex04.coin01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "coin02",
+      "request": "launch",
+      "mainClass": "ex04.coin02",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "coin03",
+      "request": "launch",
+      "mainClass": "ex04.coin03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "con01",
+      "request": "launch",
+      "mainClass": "ex04.con01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "con02",
+      "request": "launch",
+      "mainClass": "ex04.con02",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "con03",
+      "request": "launch",
+      "mainClass": "ex04.con03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "con04",
+      "request": "launch",
+      "mainClass": "ex04.con04",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for01",
+      "request": "launch",
+      "mainClass": "ex04.for01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for02",
+      "request": "launch",
+      "mainClass": "ex04.for02",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for03",
+      "request": "launch",
+      "mainClass": "ex04.for03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for04",
+      "request": "launch",
+      "mainClass": "ex04.for04",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for05",
+      "request": "launch",
+      "mainClass": "ex04.for05",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for06",
+      "request": "launch",
+      "mainClass": "ex04.for06",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "for07",
+      "request": "launch",
+      "mainClass": "ex04.for07",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Meth01",
+      "request": "launch",
+      "mainClass": "ex05.Meth01",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Meth02",
+      "request": "launch",
+      "mainClass": "ex05.Meth02",
+      "projectName": "study_626bcc5c"
+    }
+  ]
+}
