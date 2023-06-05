@@ -1,6 +1,6 @@
 package ex06.ch02;
 
-public class Dragoon {
+public class Dragoon extends ProtossUnit {
     String name;
     int hp;
     int attack;
