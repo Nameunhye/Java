@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "ex06.ch02.App",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
+      "name": "Exten03",
+      "request": "launch",
+      "mainClass": "ex06.ch03.Exten03",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
       "name": "exten01",
       "request": "launch",
       "mainClass": "ex06.ch03.exten01",

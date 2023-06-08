@@ -11,4 +11,24 @@ public class DarkTempler extends ProtossUnit {
         this.attack = attack;
     }
 
+    @Override
+    public int attack() {
+        return attack;
+    }
+
+    @Override
+    public int hp() {
+        return hp;
+    }
+
+    @Override
+    public String name() {
+        return name;
+    }
+
+    @Override
+    public void setHp(int hp) {
+        this.hp = hp;
+    }
+
 }

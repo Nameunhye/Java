@@ -1,4 +1,4 @@
-package Exam;
+package exam;
 
 class 엘리스 {
     static String name = "엘리스";

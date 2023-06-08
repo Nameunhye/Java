@@ -33,9 +33,9 @@ class 홍길동 extends 한국인 {
 
 // java는 다형성을 성립하면 같은 type으로 묶어준다.
 
-public class exten01 {
+public class Exten01 {
     public static void main(String[] args) {
-        아시아인 d1 = new 아시아인();
+        아시아인 d1 = new 홍길동();
         d1.speak();
         // 홍길동의 부모포함 총 4개(지구인, 아시아인, 한국인, 홍길동)의 type이 heap에 뜬다
 
