@@ -112,7 +112,7 @@ class Box3 extends Boxes {
 
 }
 
-public class Study002 {
+public class Study02 {
 
     static void Calculate(Boxes a, Boxes b) {
         String sell;
