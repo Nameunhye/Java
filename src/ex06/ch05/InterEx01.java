@@ -16,6 +16,7 @@ package ex06.ch05;
 // 인터페이스는 new를 하지 못한다. 그래서
 // "CarAble의 구현체는 Car이다."
 // 그러면 'class Car implements CarAble'라는 걸 인지를 할 수 있다.
+// car을 new하면 되는 구나를 인지하면 된다. - 구현체를 new하면 된다.
 // 위의 문구(어떤 것이 구현체인지)가 없다면, API문서를 작성해놔야 한다. 아니면 이 인터페이스의 구현체가 어떤건지 모른다.
 interface CarAble {
     public abstract void 엑셀();

@@ -35,7 +35,7 @@ class 홍길동 extends 한국인 {
 
 public class Exten01 {
     public static void main(String[] args) {
-        아시아인 d1 = new 홍길동();
+        홍길동 d1 = new 홍길동();
         d1.speak();
         // 홍길동의 부모포함 총 4개(지구인, 아시아인, 한국인, 홍길동)의 type이 heap에 뜬다
 
