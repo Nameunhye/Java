@@ -1,6 +1,6 @@
-package mine;
+package ex13;
 
-public class Me {
+public class Collect01 {
     public static void main(String[] args) {
 
     }
