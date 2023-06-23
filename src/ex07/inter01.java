@@ -12,7 +12,7 @@ interface Remote {
     void run(); // public abstrack (생략)
 }
 
-public class inter01 {
+public class Inter01 {
     public static void main(String[] args) {
         System.out.println(Remote.NUM);
     }

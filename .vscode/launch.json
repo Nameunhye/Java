@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DivideByZero2",
+      "request": "launch",
+      "mainClass": "ex08.DivideByZero2",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
       "name": "Study00",
       "request": "launch",
       "mainClass": "mine.Study00",

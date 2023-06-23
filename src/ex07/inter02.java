@@ -25,7 +25,7 @@ class 엘지 {
 
 }
 
-public class inter02 {
+public class Inter02 {
     public static void main(String[] args) {
 
     }
